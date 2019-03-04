@@ -1,0 +1,12 @@
+{
+    "token": "",
+    "prefix": "$",
+    "supportsystem": "true",
+    "ownerid": "your id",
+    "botid": "your bots id",
+    "guildid": "guild id",
+    "botStatus": "dnd",
+    "botActivityMessage": "title",
+    "botActivityType": "STREAMING",
+    "twithlink": "https://www.twitch.tv/twitch"
+}
